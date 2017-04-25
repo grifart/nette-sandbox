@@ -45,12 +45,6 @@ PHP 5.6 or higher. To check whether server configuration meets the minimum requi
 Nette Framework browse to the directory `/checker` in your project root (i.e. `http://localhost:8000/checker`).
 
 
-Adminer
--------
-
-[Adminer](https://www.adminer.org/) is full-featured database management tool written in PHP and it is part of this Sandbox.
-To use it, browse to the subdirectory `/adminer` in your project root (i.e. `http://localhost:8000/adminer`).
-
 
 License
 -------
