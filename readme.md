@@ -41,15 +41,9 @@ via a web browser. See [security warning](https://nette.org/security-warning).
 Requirements
 ------------
 
-PHP 5.6 or higher. To check whether server configuration meets the minimum requirements for
+PHP 7.1 or higher. To check whether server configuration meets the minimum requirements for
 Nette Framework browse to the directory `/checker` in your project root (i.e. `http://localhost:8000/checker`).
 
-
-Adminer
--------
-
-[Adminer](https://www.adminer.org/) is full-featured database management tool written in PHP and it is part of this Sandbox.
-To use it, browse to the subdirectory `/adminer` in your project root (i.e. `http://localhost:8000/adminer`).
 
 
 License
